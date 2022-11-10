@@ -1,0 +1,219 @@
+<div class="Container">
+  <div class="SubContainer">
+    <div class="Header">
+      <div>EMPLOYEE</div>
+      <button
+        type="button"
+        class="btn btn-primary"
+        (click)="open(content, null, 'add')"
+      >
+        Add Employee
+      </button>
+    </div>
+    <div class="Body">
+      <table class="table">
+        <thead class="table-light">
+          <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Emp. ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Mob. No.</th>
+            <th scope="col">Email</th>
+            <th scope="col">Address</th>
+            <th scope="col">Designation</th>
+            <!-- <th scope="col">Work H.</th> -->
+            <th scope="col">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let data of List">
+            <!-- //id,empid,name,mobno,email,address,designation -->
+            <td>{{ data.id }}</td>
+            <td>{{ data.employeeID }}</td>
+            <td>{{ data.employeeName }}</td>
+            <td>{{ data.phoneNumber }}</td>
+            <td>{{ data.email }}</td>
+            <td>{{ data.address }}</td>
+            <td>{{ data.designation }}</td>
+            <!-- <td>{{ data.workHour }}</td> -->
+            <td>
+              <button
+                type="button"
+                class="btn btn-outline-primary"
+                (click)="open(content, data, 'update')"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-pencil-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M12.854.146a.5.5 0 0 0-.707 0L10.5 1.793 14.207 5.5l1.647-1.646a.5.5 0 0 0 0-.708l-3-3zm.646 6.061L9.793 2.5 3.293 9H3.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.5h.5a.5.5 0 0 1 .5.5v.207l6.5-6.5zm-7.468 7.468A.5.5 0 0 1 6 13.5V13h-.5a.5.5 0 0 1-.5-.5V12h-.5a.5.5 0 0 1-.5-.5V11h-.5a.5.5 0 0 1-.5-.5V10h-.5a.499.499 0 0 1-.175-.032l-.179.178a.5.5 0 0 0-.11.168l-2 5a.5.5 0 0 0 .65.65l5-2a.5.5 0 0 0 .168-.11l.178-.178z"
+                  />
+                </svg>
+              </button>
+              <button
+                type="button"
+                class="btn btn-outline-dark"
+                style="margin: 0 0 0 5px;"
+                (click)="handleDelete(data.id)"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                  class="bi bi-trash-fill"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z"
+                  />
+                </svg>
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="Footer">
+      <ngb-pagination
+        [collectionSize]="TotalPages * 10"
+        [(page)]="PageNumber"
+        [boundaryLinks]="false"
+        (pageChange)="handlePagination($event)"
+        style="margin: 15px 0 0 0;"
+      ></ngb-pagination>
+    </div>
+  </div>
+</div>
+
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 *ngIf="!Update" class="modal-title" id="modal-basic-title">
+      Add Employee Details
+    </h4>
+    <h4 *ngIf="Update" class="modal-title" id="modal-basic-title">
+      Update Employee Details
+    </h4>
+    <button
+      type="button"
+      class="btn-close"
+      aria-label="Close"
+      (click)="modal.dismiss('Cross click')"
+    ></button>
+  </div>
+  <div class="modal-body">
+    <form>
+      <div class="mb-3">
+        <label for="employeeId">Employee Id</label>
+        <div class="input-group">
+          <input
+            [disabled]="Update"
+            id="employeeId"
+            class="form-control"
+            placeholder="EMP001"
+            name="EmployeeId"
+            type="text"
+            [value]="EmployeeId"
+            (keyup)="handleChange($event)"
+          />
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="employeeName">Employee Name</label>
+        <div class="input-group">
+          <input
+            id="employeeName"
+            class="form-control"
+            placeholder="Vishal Waman"
+            name="EmployeeName"
+            type="text"
+            [value]="EmployeeName"
+            (keyup)="handleChange($event)"
+          />
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="mobileNumber">Mobile Number</label>
+        <div class="input-group">
+          <input
+            id="mobileNumber"
+            class="form-control"
+            placeholder="9881563158"
+            name="MobileNumber"
+            type="number"
+            [value]="MobileNumber"
+            (keyup)="handleChange($event)"
+          />
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="email">Email</label>
+        <div class="input-group">
+          <input
+            id="email"
+            class="form-control"
+            placeholder="vishalpwaman123@gmail.com"
+            name="EmailId"
+            type="email"
+            [value]="Email"
+            (keyup)="handleChange($event)"
+          />
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="address">Address</label>
+        <div class="input-group">
+          <input
+            id="address"
+            class="form-control"
+            placeholder="Ex. Kondhwa Bk, Pune"
+            name="Address"
+            type="text"
+            [value]="Address"
+            (keyup)="handleChange($event)"
+          />
+        </div>
+      </div>
+      <div class="mb-3">
+        <label for="designation">Designation</label>
+        <select
+          id="designation"
+          class="form-select"
+          aria-label="Default select example"
+          [value]="Designation"
+          (click)="handleChange($event)"
+        >
+          <option value="None">None</option>
+          <option *ngFor="let data of List1" value="{{ data.designationName }}">
+            {{ data.designationName }}
+          </option>
+        </select>
+      </div>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button
+      *ngIf="!Update"
+      type="button"
+      class="btn btn-outline-dark"
+      (click)="handelAddEmployee(); modal.close('Save click')"
+    >
+      Add
+    </button>
+    <button
+      *ngIf="Update"
+      type="button"
+      class="btn btn-outline-dark"
+      (click)="handleUpdate(); modal.close('Save click')"
+    >
+      Update
+    </button>
+  </div>
+</ng-template>
+
+<pre>{{ closeResult }}</pre>

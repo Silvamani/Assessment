@@ -1,0 +1,195 @@
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.exe
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.deps.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.runtimeconfig.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.runtimeconfig.dev.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\ref\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Humanizer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\RepositoryLayer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\ServiceLayer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\RepositoryLayer.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\bin\Debug\net5.0\ServiceLayer.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.AssemblyReference.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.AssemblyInfoInputs.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.AssemblyInfo.cs
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\staticwebassets\Employee Management System BE.StaticWebAssets.Manifest.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\staticwebassets\Employee Management System BE.StaticWebAssets.xml
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\scopedcss\bundle\Employee Management System BE.styles.css
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.RazorTargetAssemblyInfo.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.CopyComplete
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\ref\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.genruntimeconfig.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.exe
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.deps.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.runtimeconfig.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.runtimeconfig.dev.json
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\ref\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Humanizer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\RepositoryLayer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\ServiceLayer.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\RepositoryLayer.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\ServiceLayer.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.AssemblyReference.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.AssemblyInfoInputs.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.AssemblyInfo.cs
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\staticwebassets\Employee Management System BE.StaticWebAssets.Manifest.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\staticwebassets\Employee Management System BE.StaticWebAssets.xml
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\scopedcss\bundle\Employee Management System BE.styles.css
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.RazorTargetAssemblyInfo.cache
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.CopyComplete
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\ref\Employee Management System BE.dll
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.pdb
+D:\V Technology\Internship\Employee Management System\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.genruntimeconfig.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\appsettings.json
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.exe
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.deps.json
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.runtimeconfig.json
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.runtimeconfig.dev.json
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\ref\Employee Management System BE.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Employee Management System BE.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Humanizer.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\ServiceLayer.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\bin\Debug\net5.0\ServiceLayer.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.AssemblyReference.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.AssemblyInfoInputs.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.AssemblyInfo.cs
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.CoreCompileInputs.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\staticwebassets\Employee Management System BE.StaticWebAssets.Manifest.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\staticwebassets\Employee Management System BE.StaticWebAssets.xml
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\scopedcss\bundle\Employee Management System BE.styles.css
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.RazorTargetAssemblyInfo.cache
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.csproj.CopyComplete
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\ref\Employee Management System BE.dll
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.pdb
+C:\Users\c1julymind183\Desktop\comprehensive proj\Employee Management System BE In .Net\Employee Management System BE In .Net\Employee Management System BE\obj\Debug\net5.0\Employee Management System BE.genruntimeconfig.cache

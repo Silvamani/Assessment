@@ -1,0 +1,55 @@
+<div class="Container">
+  <div class="SubContainer">
+    <div class="Header">Employee Management System</div>
+    <div class="Body">
+      <div class="Body-Box1">
+        <div
+          class="{{
+            EmployeeSelector ? 'Body-Box1-SelectNav' : 'Body-Box1-Nav'
+          }}"
+          (click)="handleNav('Employee')"
+        >
+          <div>Employee</div>
+        </div>
+        <div
+          class="{{
+            DesignationSelector ? 'Body-Box1-SelectNav' : 'Body-Box1-Nav'
+          }}"
+          (click)="handleNav('Designation')"
+        >
+          <div>Designation</div>
+        </div>
+        <div
+          class="{{
+            TimeManagementSelector ? 'Body-Box1-SelectNav' : 'Body-Box1-Nav'
+          }}"
+          (click)="handleNav('TimeManagement')"
+        >
+          <div>Working Hour</div>
+        </div>
+        <div
+          class="{{
+            PaymentSelector ? 'Body-Box1-SelectNav' : 'Body-Box1-Nav'
+          }}"
+          (click)="handleNav('Payment')"
+        >
+          <div>Payment</div>
+        </div>
+        <div
+          class="{{ LeaveSelector ? 'Body-Box1-SelectNav' : 'Body-Box1-Nav' }}"
+          (click)="handleNav('Leave')"
+        >
+          <div>Leave</div>
+        </div>
+      </div>
+      <div class="Body-Box2">
+        <app-employee *ngIf="Employee"></app-employee>
+        <app-designation *ngIf="Designation"></app-designation>
+        <app-timemanagement *ngIf="TimeManagement"></app-timemanagement>
+        <app-payment *ngIf="Payment"></app-payment>
+        <app-leave *ngIf="Leave"></app-leave>
+      </div>
+    </div>
+    <div class="Footer"></div>
+  </div>
+</div>

@@ -1,0 +1,105 @@
+<div class="Container">
+  <div class="SubContainer">
+    <div class="Header">
+      Employee Management System &nbsp;
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        fill="currentColor"
+        class="bi bi-person-fill"
+        viewBox="0 0 16 16"
+      >
+        <path
+          d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"
+        />
+      </svg>
+    </div>
+    <div class="Body">
+      <div class="SubBody">
+        <div class="SubBody-Header">
+          <div style="margin: 0 0 20px 0;">Employee Management System</div>
+          <div style="margin: 0 0 20px 0;">Sign Up</div>
+        </div>
+        <div class="SubBody-Body">
+          <input
+            required
+            name="Username"
+            type="email"
+            class="form-control"
+            aria-describedby="emailHelp"
+            placeholder="Email Or Username"
+            style="width: 80%;"
+            [value]="Username"
+            (keyup)="handleChange($event)"
+          />
+          <small
+            id="emailHelp"
+            class="form-text text-muted"
+            style="margin: 0 0px 10px 0px;"
+          >
+            <div *ngIf="UsernameFlag" style="color: red;">
+              Please Enter Username or Email
+            </div>
+          </small>
+          <input
+            required
+            name="Password"
+            type="password"
+            class="form-control"
+            aria-describedby="emailHelp"
+            placeholder="Password"
+            style="width: 80%; margin: 30px 0 0 0;"
+            [value]="Password"
+            (keyup)="handleChange($event)"
+          />
+          <small
+            id="emailHelp"
+            class="form-text text-muted"
+            style="margin: 0 0 10px 0;"
+          >
+            <div *ngIf="PasswordFlag" style="color: red;">
+              Please Enter Password
+            </div>
+          </small>
+          <input
+            type="password"
+            name="ConfirmPassword"
+            class="form-control"
+            aria-describedby="emailHelp"
+            placeholder="Confirm Password"
+            style="width: 80%; margin: 30px 0 0 0;"
+            [value]="ConfirmPassword"
+            (keyup)="handleChange($event)"
+          />
+          <small
+            id="emailHelp"
+            class="form-text text-muted"
+            style="margin: 0 0 10px 0;"
+          >
+            <div *ngIf="ConfirmPasswordFlag" style="color: red;">
+              Please Enter Confirm Password
+            </div>
+          </small>
+        </div>
+        <div class="SubBody-Footer">
+          <button
+            type="button"
+            class="btn btn-link"
+            (click)="redirectToSignIn()"
+          >
+            Sign In ( Already Account )
+          </button>
+          <button
+            type="button"
+            class="btn btn-primary"
+            (click)="handleSubmit()"
+          >
+            Sign Up
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="Footer"></div>
+  </div>
+</div>

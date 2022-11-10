@@ -1,0 +1,82 @@
+<div class="Container">
+  <div class="SubContainer">
+    <div class="Header">
+      Employee Management System &nbsp;
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        fill="currentColor"
+        class="bi bi-person-fill"
+        viewBox="0 0 16 16"
+      >
+        <path
+          d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"
+        />
+      </svg>
+    </div>
+    <div class="Body">
+      <div class="SubBody">
+        <div class="SubBody-Header">
+          <div style="margin: 0 0 20px 0;">Employee Management System</div>
+          <div>Sign In</div>
+        </div>
+        <div class="SubBody-Body">
+          <input
+            name="UserName"
+            type="email"
+            class="form-control"
+            aria-describedby="emailHelp"
+            placeholder="Email Or Username"
+            style="width: 80%;"
+            (keyup)="handleChange($event)"
+          />
+          <small
+            id="emailHelp"
+            class="form-text text-muted"
+            style="margin: 0 0 40px 0;"
+          >
+            <div *ngIf="UserNameFlag" style="color: red;">
+              Please Enter Username & Email
+            </div>
+          </small>
+          <input
+            name="Password"
+            type="password"
+            class="form-control"
+            aria-describedby="emailHelp"
+            placeholder="Password"
+            style="width: 80%;"
+            (keyup)="handleChange($event)"
+          />
+          <small
+            id="emailHelp"
+            class="form-text text-muted"
+            style="margin: 0 0 10px 0;"
+          >
+            <div *ngIf="PasswordFlag" style="color: red;">
+              Please Enter Password
+            </div>
+          </small>
+        </div>
+        <div class="SubBody-Footer">
+          <button
+            type="button"
+            class="btn btn-link"
+            (click)="redirectToSignIn()"
+          >
+            Create New Account
+          </button>
+          <button
+            type="button"
+            class="btn btn-primary"
+            (click)="handleSubmit()"
+          >
+            Sign Up
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="Footer"></div>
+  </div>
+</div>
